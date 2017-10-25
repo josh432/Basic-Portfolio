@@ -238,6 +238,7 @@ div#sidebar {
     margin-top: 25px;
     background-color: #ffffff;
     padding: 50px;
+   
 }
 .port {
 	padding-left: 20px;
@@ -279,6 +280,7 @@ footer {
 	text-align: center;
 	padding: 25px;
 	margin-top:444px;
+	position:fixed;
 	
 	}
 
